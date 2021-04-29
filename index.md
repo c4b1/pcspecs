@@ -26,5 +26,5 @@ Last Updated: April 29, 2021 by fxpie
 *Note: Seagate BarraCuda not included by default; Light gpu overclocking has been performed*
 *For more information on the Pavillion TG01, please see HP Canada's product specifications [document](https://support.hp.com/ca-en/product/hp-pavilion-gaming-desktop-pc-tg01-1000i/32480786/model/38811113/document/c06723599)*
 
-Legal:
+###### Legal Note:
 **I am not endorsed by, affiliated with, or otherwise connected to any of the 'Hardware Vendors' listed above**

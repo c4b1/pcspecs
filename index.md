@@ -1,5 +1,6 @@
 # fxpi(e)'s pc specs & peripherals sheet
 Specifications maintained by [fxpi(e)](https://github.com/fxpie)
+
 Last Updated: April 29, 2021 by fxpie
 
 ### Peripherals
